@@ -1,0 +1,22 @@
+.img-home {
+    width: 50vw;
+}
+.title {
+    color: rgb(51, 32, 69);
+}
+.title-home {
+    color:brown;
+    margin: 20px;
+    font-size: large;
+}
+.post-text {
+    font-size: 20px;
+    color: blue;
+    
+    
+}
+.img-post {
+    width: 10vw;
+}
+
+

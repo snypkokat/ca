@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+    <title>Главная страница</title>
+{% endblock %}
+
+{% block content %}
+        <div class="title-home">
+            Добро пожаловать на мой сайт
+        </div>
+        <div>
+            <img class="img-home" src="{% static 'imghome.jpg' %}" />
+        </div>
+{% endblock %}
